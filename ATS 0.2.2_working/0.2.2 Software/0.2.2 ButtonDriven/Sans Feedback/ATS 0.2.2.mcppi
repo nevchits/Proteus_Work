@@ -1,0 +1,68 @@
+[DEVICE]
+Name=P16F84A
+Clock=4000000
+[MEMORY_MODEL]
+Value=0
+[BUILD_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=ATS 0.2.2.c
+[USE_EEPROM]
+Value=0
+[EEPROM_DEFINITION]
+Value=
+[FILES]
+Count=1
+File0=ATS 0.2.2.c
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+[OPENED_FILES]
+Count=1
+File0=ATS 0.2.2.c
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Count=5
+Path0=C:\Program Files\Mikroelektronika\mikroC PRO for PIC\defs\
+Path1=C:\Program Files\Mikroelektronika\mikroC PRO for PIC\Uses\P16\
+Path2=C:\Documents and Settings\Neville\My Documents\PROTEUS\02 ATS\ATS 0.2.2_working\0.2.2 Software\0.2.2 ButtonDriven\Sans Feedback\
+Path3=C:\Documents and Settings\Neville\My Documents\PROTEUS\02 ATS\ATS 0.2.2_Final\0.2.2 Software\0.2.2 ButtonDriven\Sans Feedback\
+Path4=C:\Documents and Settings\Neville\My Documents\PROTEUS\02 ATS\ATS 0.2.2 - April 2014\0.2.2 Software\16F628A Code\0.2.2 ButtonDriven\Sans Feedback\
+[HEADER_PATH]
+Count=0
+[HEADERS]
+Count=0
+[PLDS]
+Count=0
+[Useses]
+Count=28
+File0=Button
+File1=C_Math
+File2=C_Stdlib
+File3=C_String
+File4=C_Type
+File5=Compact_Flash
+File6=Conversions
+File7=EEPROM
+File8=Glcd_Fonts
+File9=Glcd
+File10=Keypad4x4
+File11=Lcd_Constants
+File12=Lcd
+File13=Manchester
+File14=One_Wire
+File15=PS2
+File16=PWM
+File17=RS485
+File18=Software_I2C
+File19=Software_SPI
+File20=Software_UART
+File21=Sound
+File22=Sprinti
+File23=Sprintl
+File24=T6963C
+File25=Time
+File26=Trigonometry
+File27=UART
