@@ -1,0 +1,18 @@
+main
+	__CC2DW
+	UART1_Init
+	UART1_Write_Text
+		UART1_Write
+	UART1_Write
+	nibble
+		HammingEncode
+		UART1_Write
+		UART1_Write_Text
+			UART1_Write
+	AddNoise
+		HammingEncode
+		UART1_Write
+		UART1_Write_Text
+			UART1_Write
+interrupt
+	UART1_Read
