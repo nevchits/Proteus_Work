@@ -1,0 +1,16 @@
+Line	MessageNo	File Name
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -GC -DL -O11111114 -fo4 -N"C:\Documents and Settings\Neville\My Documents\PROTEUS\02 ATS\ATS 0.2.2_working\0.2.2 Software\0.2.2 ButtonDriven\with Feedback\ATS 0.2.2 Button_Driven.mcppi" -SP"C:\Program Files\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Program Files\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Documents and Settings\Neville\My Documents\PROTEUS\02 ATS\ATS 0.2.2_working\0.2.2 Software\0.2.2 ButtonDriven\with Feedback\" -SP"C:\Documents and Settings\Neville\My Documents\PROTEUS\02 ATS\ATS 0.2.2 - April 2014\0.2.2 Software\16F628A Code\0.2.2 ButtonDriven\with Feedback\" -SP"C:\Documents and Settings\Neville\My Documents\PROTEUS\02 ATS\ATS 0.2.2 - April 2014\0.2.2 Software\16F628A Code\0.2.2 ButtonDriven\" "ATS 0.2.2 Button_Driven.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_Sprinti.mcl" "__Lib_Sprintl.mcl" "__Lib_Time.mcl" "__Lib_Trigonometry.mcl" "__Lib_Button.mcl" "__Lib_Keypad4x4.mcl" "__Lib_Manchester.mcl" "__Lib_OneWire.mcl" "__Lib_PS2.mcl" "__Lib_Sound.mcl" "__Lib_SoftI2C.mcl" "__Lib_SoftSPI.mcl" "__Lib_SoftUART.mcl" "__Lib_EEPROM.mcl" "__Lib_PWM_c21.mcl" "__Lib_UART_c67.mcl" "__Lib_CF.mcl" "__Lib_GlcdFonts.mcl" "__Lib_Glcd.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl" "__Lib_RS485.mcl" "__Lib_T6963C.mcl"	 
+warning: 0	1501	Specified search path does not exist: 'C:\Documents and Settings\Neville\My Documents\PROTEUS\02 ATS\ATS 0.2.2 - April 2014\0.2.2 Software\16F628A Code\0.2.2 ButtonDriven\with Feedback'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Documents and Settings\Neville\My Documents\PROTEUS\02 ATS\ATS 0.2.2 - April 2014\0.2.2 Software\16F628A Code\0.2.2 ButtonDriven'	 
+hint: 0	1138	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	126	All files Preprocessed in 21 ms	 
+diagnostics: 0	122	Compilation Started	ATS 0.2.2 Button_Driven.c
+diagnostics: 314	123	Compiled Successfully	ATS 0.2.2 Button_Driven.c
+diagnostics: 0	127	All files Compiled in 120 ms	 
+hint: 0	1143	Used RAM (bytes): 19 (5%)  Free RAM (bytes): 333 (95%)	Used RAM (bytes): 19 (5%)  Free RAM (bytes): 333 (95%)
+hint: 0	1143	Used ROM (program words): 372 (5%)  Free ROM (program words): 7820 (95%)	Used ROM (program words): 372 (5%)  Free ROM (program words): 7820 (95%)
+diagnostics: 0	125	Project Linked Successfully	ATS 0.2.2 Button_Driven.mcppi
+hint: 0	1004	COFF file successfully generated	COFF file successfully generated
+diagnostics: 0	128	Linked in 410 ms	 
+diagnostics: 0	129	Project 'ATS 0.2.2 Button_Driven.mcppi' completed: 721 ms	 
+diagnostics: 0	103	Finished successfully: 28 Jul 2014, 10:32:12	ATS 0.2.2 Button_Driven.mcppi
