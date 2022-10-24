@@ -10,7 +10,7 @@ LOWER OPAMP
 	PIN 7 : Car Off the bridge - Ground this pin to simulate a car getting off the bridge
 	PIN 8 : Train Off Bride - Ground this pin to simulate train getting off the bridge 
 
-when you turn the system on for the first time, it will run a SELF-TEST procedure. during the process, it will write "MHAZO, M.HIT 400", "BRIDGE TRAFFIC CONTROLLER".
+when you turn the system on for the first time, it will run a SELF-TEST procedure. during the process, it will write "*********", "BRIDGE TRAFFIC CONTROLLER".
 it will then flash all the Traffic light LEDs once, and write "88" on the Seven segment displays. it will then write "No Train. Ready...". at this point in time, the system will be ready.
 NOTE: the green timer LED will be flashing the whole time. 
 
